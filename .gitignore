@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+
+# Secret files
+.env
+*.env
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Node/npm (if using npm for frontend)
+node_modules/
+package-lock.json
